@@ -20,8 +20,8 @@ const nextConfig: NextConfig = {
     ],
   },
   output: "export",
-  basePath: "/akalli-landing", // se seu projeto não for publicado na raiz do domínio, coloque o nome do repositório
-  assetPrefix: "/akalli-landing", // também é bom setar
+  basePath: "/akalli_landing",
+  assetPrefix: "/akalli_landing",
 };
 
 export default nextConfig;
